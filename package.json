@@ -1,0 +1,10 @@
+{
+  "name": "ramitos-resizable-textarea",
+  "description": "make a textarea auto resizable",
+  "version": "0.0.3",
+  "main": "src/rta.js",
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}

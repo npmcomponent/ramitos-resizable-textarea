@@ -1,4 +1,4 @@
-var ev = require('event');
+var ev = require('component-event');
 
 module.exports = function (element) {
   ev.bind(element, 'input', function () {
